@@ -1,15 +1,15 @@
 # AUTHOR: PHILIP LITVINE CHANG BODIH MAKEBEH
 # ageinminutes
-This app calculates your age in minutes
+This is a simple age calculator Android Application that takes the users date of birth and converts it to time in minutes starting
+from 01-01-1970.
 
 #USAGE
-#DOWNLOAD THE ZIP FILE TO YOUR LOCAL PC
-#UNZIP THE FILE
-#OPEN THE UNZIPPED FILE IN ANDROID STUDIO
-#CONNECT YOUR ANDROID PHONE OR RUN THE APPLICATION
-#IN THE EMULATOR
+- Go to the master branch to view source code
+- Download the ZIP file
+- UNZIP the file
+- Open the unzipped folder in Android Studio
+- Run the Application on your device
 
-This is a simple age calculator that takes the users date of birth and converts it to time in minutes starting
-from 01-01-1970
+
 
 
